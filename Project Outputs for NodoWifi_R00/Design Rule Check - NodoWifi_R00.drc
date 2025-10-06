@@ -1,0 +1,30 @@
+Protel Design System Design Rule Check
+PCB File : D:\Altium Projects\IDCI_TP1\PCB_Project\NodoWifi_R00.PcbDoc
+Date     : 6/6/2025
+Time     : 15:21:23
+
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=16mil) (MaxHoleWidth=16mil) (PreferredHoleWidth=16mil) (MinWidth=28mil) (MaxWidth=28mil) (PreferedWidth=28mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00
